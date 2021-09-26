@@ -1,5 +1,4 @@
 import java.util.*;
-import java.lang.String;
 class Lab2
 {
  public static void main(String args[])
@@ -42,3 +41,29 @@ class Lab2
   }while(ch<=7);
  }
 }
+
+
+OUTPUT:
+enter a value1
+enter b value2
+1.bitwise AND(&)
+2.bitwise OR(|)
+3.bitwise EXCLUSIVE OR(^)
+4.bitwise NEGATION(~)
+5.bitwise LEFTSHIFT(<<)
+6.bitwise RIGHTSHIFT(>>)
+7.bitwise ZEROFILLWITH RIGHTSHIFT(>>>)
+enter choice
+1
+a&b=0
+ enter a value1
+enter b value2
+1.bitwise AND(&)
+2.bitwise OR(|)
+3.bitwise EXCLUSIVE OR(^)
+4.bitwise NEGATION(~)
+5.bitwise LEFTSHIFT(<<)
+6.bitwise RIGHTSHIFT(>>)
+7.bitwise ZEROFILLWITH RIGHTSHIFT(>>>)
+enter choice
+
